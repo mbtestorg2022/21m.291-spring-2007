@@ -48,12 +48,105 @@ Students must complete one research paper of 4-5 pages.
 Course Calendar
 ---------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-2 | Unit 1 - Introduction: The Vedic heritage | Format paper 1 due beginning of Week #2 |
-| 3-4 | Unit 2 - The legacy of Dhrupad | &nbsp; |
-| 5-7 | Unit 3 - The glories of Khyal | Quiz 1 during Week #7 |
-| 8-10 | Unit 4 - Instrumental music | &nbsp; |
-| 11-12 | Unit 5 - Music of South India | Quiz 2 during Week #11 |
-| 13-14 | Unit 6 - Light classical music | Concert reports due end of Week #14 |
-| 15 | Final exam | Research paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 1 - Introduction: The Vedic heritage
+{{< tdclose >}}
+{{< tdopen >}}
+Format paper 1 due beginning of Week #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 2 - The legacy of Dhrupad
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 3 - The glories of Khyal
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 during Week #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-10
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 4 - Instrumental music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 5 - Music of South India
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 during Week #11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 6 - Light classical music
+{{< tdclose >}}
+{{< tdopen >}}
+Concert reports due end of Week #14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

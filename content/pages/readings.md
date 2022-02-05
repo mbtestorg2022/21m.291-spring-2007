@@ -14,15 +14,108 @@ Ruckert, George. _The Classical Music of North India_. New Delhi, India: Munshir
 Textbook Readings
 -----------------
 
-| WEEK # | TOPICS | TEXT READINGS |
-| --- | --- | --- |
-| 1-2 | Unit 1 - Introduction: The Vedic heritage | pp. 1-31, 247-251 |
-| 3-4 | Unit 2 - The legacy of Dhrupad | pp. 215-227, 251-289, and 317-341 |
-| 5-7 | Unit 3 - The glories of Khyal | pp. 297-303 |
-| 8-10 | Unit 4 - Instrumental music | pp. 309-317 |
-| 11-12 | Unit 5 - Music of South India | pp. 309-317 |
-| 13-14 | Unit 6 - Light classical music | pp. 303-309 |
-| 15 | Final exam |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+TEXT READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 1 - Introduction: The Vedic heritage
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 1-31, 247-251
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 2 - The legacy of Dhrupad
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 215-227, 251-289, and 317-341
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 3 - The glories of Khyal
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 297-303
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-10
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 4 - Instrumental music
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 309-317
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 5 - Music of South India
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 309-317
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 6 - Light classical music
+{{< tdclose >}}
+{{< tdopen >}}
+pp. 303-309
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Reader
 -------------
